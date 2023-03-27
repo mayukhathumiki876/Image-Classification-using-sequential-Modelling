@@ -6,7 +6,7 @@ Installation Instructions: This does not require any specifi installations as th
 
 How to run the project:
 1. Open Google Colab in your web browser and sign in using your Google account.
-2. Pull the code from the repository to your colab. This is a view only notebook and you will have to create a copy of it in your local drive for editing.
+2. Pull the code from the repository to your colab or you can directly click on 'https://colab.research.google.com/drive/1hc5mG-WBKNcI2mm_IFmzPqh78id7YvyG?usp=sharing' link for code. This is a view only notebook and you will have to create a copy of it in your local drive for editing.
 3. Select a runtime type by clicking on "Runtime" in the top menu, then change to "GPU" for running faster.
 4. Download the dataset from 'https://www.kaggle.com/datasets/samaneheslamifar/facial-emotion-expressions' and upload it the drive.
 5. Access the dataset from the drive by mounting it.
